@@ -1,0 +1,1 @@
+var alo = angular.module("alomundo",['ngRoute']);
